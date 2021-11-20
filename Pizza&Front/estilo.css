@@ -1,0 +1,21 @@
+main section{
+    display: flex;
+    justify-content: right;
+}
+.delivery{
+    background-image: url(img/delivery.jpg);
+    background-repeat: no-repeat;
+    width: 650px;
+    height: 500px;
+    background-size: cover;
+}
+header{
+    display: flex;
+    justify-content: right;
+    
+}
+.nav ul{
+    display: flex;
+}
+.Podio{
+}

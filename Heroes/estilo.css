@@ -1,0 +1,15 @@
+.descuento{
+    background-color:#1CD1B0;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+}
+.titulo{
+    background-color:#00669F;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 100px;
+}
