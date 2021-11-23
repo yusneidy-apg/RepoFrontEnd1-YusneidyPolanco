@@ -1,0 +1,54 @@
+.body{
+    background-color: #DCDCDC;
+    color: #000000;
+    font-family: Roboto Mono, serif, sans-serif;
+    font-size: 25px;
+    line-height: 50px;
+}
+.header{
+    background-image: url(img/fondo.webp);
+    background-position: bottom;
+    display:block;
+    margin-bottom: 10px;
+}
+.foto{
+  display: flex;  
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
+.titulo{
+    color: #fff;
+    display: flex;
+    font-family: 'Slabo 27px', serif;
+    font-style: italic;
+    font-size: 50px;
+    justify-content: center;
+    
+}
+.nav-lista{
+    color:#fff;
+    font-family: Roboto Mono, serif, sans-serif;
+    font-size: 35px;
+    text-align: right;
+    
+}
+.main{
+    background-color: #DCDCDC;
+    font-family: Roboto Mono, serif, sans-serif;
+    font-size: 25px;
+}
+.footer{
+    font-family:Roboto Mono, serif, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: justify;
+}
+.listaFooter{
+    display: flex;
+    padding: 20px;
+}
+p h2{
+    text-align: justify;
+
+}
