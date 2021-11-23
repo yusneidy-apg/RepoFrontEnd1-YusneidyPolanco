@@ -13,3 +13,8 @@
     font-size: 40px;
     line-height: 100px;
 }
+/*aliniacón de las card*/
+.card{
+    display: flex;
+    
+}
